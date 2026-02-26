@@ -1,1 +1,0 @@
-g++ -o main.exe main.cpp common.cpp path_utils.cpp autocomplete.cpp commands.cpp render.cpp unlocker.cpp 7z/SevenZipSDK.cpp dlcore.cpp -liphlpapi -lws2_32 -lrstrtmgr -lpsapi -lwinhttp -lole32 -loleaut32 -DDLCORE_EXPORTS
